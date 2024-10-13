@@ -1,6 +1,9 @@
 # Peso Ideal
 > Status: Finalizado ✅
 
+![imc](https://github.com/user-attachments/assets/f212b465-4241-4bb8-bf11-efd1dabddacb)
+
+
 Uma aplicação web desenvolvida para ajudar os usuários a calcular seu peso ideal com base na altura e no gênero. O aplicativo foi construído utilizando **HTML**, **CSS**, **JavaScript** e **Bootstrap**.
 
 ## Funcionalidades
