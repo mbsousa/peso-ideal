@@ -26,6 +26,10 @@ header {
   background-color: #fff; /* Adiciona fundo ao header para melhor legibilidade */
 }
 
+#imc {
+  margin-bottom: 30px;
+}
+
 #foot {
   background-color: #cdadc5;
   text-align: center;
